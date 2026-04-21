@@ -8,10 +8,12 @@ Aplikasi dibangun menggunakan:
 Bahasa: Python
 GUI: Tkinter
 Metode Inferensi: Forward Chaining
+
 **2. Tujuan**
 Mengimplementasikan konsep sistem pakar dalam studi kasus medis
 Memahami cara kerja rule-based system
 Mengembangkan aplikasi GUI sederhana untuk diagnosa
+
 **3. Konsep Sistem Pakar**
 Metode Inferensi: Forward Chaining
 
@@ -21,7 +23,9 @@ User memilih gejala
 Sistem mengumpulkan fakta (gejala yang dipilih)
 Sistem mencocokkan dengan rule pada knowledge base
 Sistem menghasilkan diagnosa penyakit
+
 **4. Struktur Data**
+
 **4.1 Knowledge Base (Database Penyakit dan Solusi)**
 knowledge_base = {
     "Tonsilitis": {
