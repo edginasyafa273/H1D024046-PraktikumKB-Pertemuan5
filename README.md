@@ -1,4 +1,5 @@
 **README - Sistem Pakar Diagnosa Penyakit THT (GUI Python)**
+
 **1. Deskripsi**
 
 Aplikasi ini merupakan implementasi sistem pakar berbasis aturan (rule-based expert system) untuk melakukan diagnosa awal penyakit THT (Telinga, Hidung, Tenggorokan) berdasarkan gejala yang diinput oleh pengguna.
