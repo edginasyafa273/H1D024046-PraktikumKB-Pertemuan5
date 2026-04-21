@@ -10,11 +10,13 @@ GUI: Tkinter
 Metode Inferensi: Forward Chaining
 
 **2. Tujuan**
+
 Mengimplementasikan konsep sistem pakar dalam studi kasus medis
 Memahami cara kerja rule-based system
 Mengembangkan aplikasi GUI sederhana untuk diagnosa
 
 **3. Konsep Sistem Pakar**
+
 Metode Inferensi: Forward Chaining
 
 Proses kerja sistem:
